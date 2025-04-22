@@ -15,7 +15,7 @@ BareBand is a minimalistic diagnostic tool for monitoring and troubleshooting ne
 
 ## Installation
 
-1. Download the latest release from the [releases page](#).
+1. Download the latest release from the releases page.
 2. Extract the files to a folder.
 3. Run `BareBand.exe` to start the application.
 
