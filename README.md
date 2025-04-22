@@ -36,7 +36,7 @@ BareBand is a minimalistic diagnostic tool for monitoring and troubleshooting ne
 
 BareBand was developed to help identify the root cause of internet connectivity issues, as I have dealt with internet problems from every angle—whether it's weak Wi-Fi, an unreliable ISP, or fluctuating cellular tower signals. This tool is my attempt to streamline the process of diagnosing these issues and easily pinpoint the source of the problem.
 
-Additionally, this is my first C++ project built using RAD Studio. I developed it as a way to deepen my understanding of C++ while using RAD Studio for rapid application development. The tool combines my passion for network diagnostics with the technical challenge of working with C++ and RAD Studio.
+Additionally, this is my first C++ project built using RAD Studio. Despite some configurations in RAD Studio that may make the project appear 97% Pascal/Delphi due to file extensions and IDE defaults, the core of the project is implemented in C++. The mix-up is more about RAD Studio's setup rather than the language used. The tool combines my passion for network diagnostics with the technical challenge of working with C++ and RAD Studio.
 
 ## Development
 
